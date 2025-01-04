@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css");
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.custom-style {
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Pretendard', sans-serif;
+    margin-bottom: 2rem;
+}
+
+#main-content {
+    width: 100%;
+    max-width: 800px;
+}
